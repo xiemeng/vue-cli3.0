@@ -1,4 +1,4 @@
-*移动端app框架模板
+# 移动端app框架模板
 技术栈：vue-cli3.0，mint-ui按需加载，less+postcss样式处理器，rem加px2rem来进行适配。自带一些基础的样式库和插件
 
 
