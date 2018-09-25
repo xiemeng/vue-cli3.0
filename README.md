@@ -1,3 +1,9 @@
+*移动端app框架模板
+技术栈：vue-cli3.0，mint-ui按需加载，less+postcss样式处理器，rem加px2rem来进行适配。自带一些基础的样式库和插件
+
+
+
+
 Preload    默认情况下，一个 Vue CLI 应用会为所有初始化渲染需要的文件自动生成 preload 提示。
 <link rel="preload"> 是一种 resource hint，用来指定 页面加载后 很快会被用到的资源，所以在页面加载的过程中，我们希望在浏览器开始主体渲染之前尽早 preload。  
 
