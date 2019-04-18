@@ -16,8 +16,10 @@ Vue.component(Range.name, Range)
 
 
 Vue.config.productionTip = false;
-new Vue({
+
+const vues = new Vue({
   router,
   store,
   render: h => h(App)
 }).$mount('#app')
+console.log(vues)

@@ -9,7 +9,6 @@ export const moneyFilter = function(moneyNum,str){
 		var newMoney=moneyNum.replace(/(\d)(?=(\d{4})+(?!\d))/g, "$1 ")
 	}else{
 		var newMoney=moneyNum.replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,")
-//		var newMoney=moneyNum.replace(/(?<!^.*\..*)(?<=\d)((?=[^.]+\.)(?=(\d{3})+\.)|(?![^.]+\..*$)(?=(\d{3})+$))/g, ",")
 	}
 	return newMoney
 }

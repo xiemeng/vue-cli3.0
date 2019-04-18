@@ -1,11 +1,18 @@
 <template>
-	<div>我是模板页面</div>
+	<div>
+		<input :value="value" />
+	</div>
 </template>
 
 <script>
 	export default{
 		components:{
 			
+		},
+		props:{
+			value:{
+				
+			}
 		},
 		data(){
 			return {

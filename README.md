@@ -16,3 +16,9 @@ Prefetch     默认情况下，一个 Vue CLI 应用会为所有作为 async chu
 在 JavaScript 被导入或在 template/CSS 中通过相对路径被引用。这类引用会被 webpack 处理。
 
 放置在 public 目录下或通过绝对路径被引用。这类资源将会直接被拷贝，而不会经过 webpack 的处理。
+
+
+//   账单
+4.17：云集769   报单： https://jinshuju.net/f/dWvsVG 
+查单：https://jinshuju.net/f/dWvsVG/s/lJ4krP
+4.18：贝店1312：

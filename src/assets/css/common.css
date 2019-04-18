@@ -112,3 +112,11 @@ html,body,a{font-size: 14px;color:#222;}
 	from{max-height: 9999px;}
 	to{max-height: 0;}
 }
+// 改变disabled下的颜色，去除苹果手机上边框阴影
+input:disabled,textarea:disabled{ 
+    -webkit-appearance: none;
+    background-color: transparent;
+    color:#333;
+    opacity: 1;
+    -webkit-text-fill-color: #333;
+}
