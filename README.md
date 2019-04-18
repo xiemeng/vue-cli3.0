@@ -21,4 +21,5 @@ Prefetch     默认情况下，一个 Vue CLI 应用会为所有作为 async chu
 //   账单
 4.17：云集769   报单： https://jinshuju.net/f/dWvsVG 
 查单：https://jinshuju.net/f/dWvsVG/s/lJ4krP
-4.18：贝店1312：
+4.18：贝店1312：报单： https://jinshuju.net/f/hIPYEK
+查单：https://jinshuju.net/f/hIPYEK/s/x9pxzw
