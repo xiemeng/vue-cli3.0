@@ -1,7 +1,7 @@
 const vuxLoader = require('vux-loader')
 module.exports = {
   // 选项...
-  baseUrl:'./',    //部署应用时的基本 URL。
+  publicPath:'./',    //部署应用时的基本 URL。
   outputDir:'dist',//更改打包后的文件名
 	assetsDir:'static',//放置生成的静态资源 (js、css、img、fonts) 的目录。
   pages: {
